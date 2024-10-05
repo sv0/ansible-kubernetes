@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  role_name: kubernetes
+  namespace: sv0
+  author: slavik@svyrydiuk.eu
+  company: Svyrydiuk
+  description: Kubernetes Role, pičo
+  min_ansible_version: 2.14
+  license: MIT
+  platforms:
+    - name: Debian
+      versions:
+        - bookworm
+    - name: Void
+      versions:
+        - all
